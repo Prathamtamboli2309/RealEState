@@ -1,0 +1,33 @@
+@import "../../responsive.scss";
+
+.listPage {
+  display: flex;
+  height: 100vh; // Make sure the height takes the full viewport
+
+  .listContainer {
+    flex: 3;
+    height: 100%;
+    overflow-y: auto; // Use auto for vertical scrolling
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+    .wrapper {
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      gap: 50px;
+    }
+  }
+
+  .mapContainer {
+    flex: 2;
+    height: 100%;
+    background-color: #fcf5f3;
+    position: sticky;
+    top: 0;
+
+    @include md {
+      display: none;
+    }
+  }
+}
