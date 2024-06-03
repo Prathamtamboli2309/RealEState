@@ -1,4 +1,4 @@
-import { useParams } from "react-router-dom";
+import { useNavigate, useParams } from "react-router-dom";
 import { useState, useEffect } from "react";
 import Slider from "../../components/slider/Slider";
 import Map from "../../components/map/Map";
@@ -10,7 +10,7 @@ import "./singlePage.scss";
 function SinglePage() {
   const { id } = useParams();
   const { userProfile, getuserData } = useAppContext();
-
+  const navigate = useNavigate();
   const [cardData, setCardData] = useState(null);
   const [loading, setLoading] = useState(true);
 
@@ -29,6 +29,7 @@ function SinglePage() {
 
         setCardData(data);
         setLoading(false);
+        navigate("/login");
       } catch (error) {
         console.error("Error fetching data:", error);
         setLoading(false);
