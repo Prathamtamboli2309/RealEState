@@ -39,7 +39,7 @@ Ensure you have the following installed on your machine:
 1. **Clone the repository:**
 
     ```sh
-    git clone [https://github.com/yourusername/realestate.](https://github.com/Prathamtamboli2309/RealEState/)git
+    git clone https://github.com/Prathamtamboli2309/RealEState.git
     cd realestate
     ```
 
