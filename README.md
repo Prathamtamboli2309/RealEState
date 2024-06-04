@@ -98,6 +98,16 @@ Ensure you have the following installed on your machine:
 5. **💾 Save Property**: Click on the save icon to add properties to your favorites list for easy access later.
 6. **✏️ Edit/Delete Property**: If you are the owner of a property, you can edit or delete your listings.
 
+## ScreenShots
+
+![Screenshot (77)](https://github.com/Prathamtamboli2309/RealEState/assets/142076673/5811efa0-0298-4d61-a588-0e23cee979e5)
+![Screenshot (78)](https://github.com/Prathamtamboli2309/RealEState/assets/142076673/e44a6c5f-090e-498f-ad6c-c6cfbf7ae7c3)
+![Screenshot (79)](https://github.com/Prathamtamboli2309/RealEState/assets/142076673/2c0bc468-cb03-445d-987f-51b438aeb9eb)
+![Screenshot (80)](https://github.com/Prathamtamboli2309/RealEState/assets/142076673/c512fcfc-0da0-4fe8-b8db-9910610b1f86)
+![Screenshot (81)](https://github.com/Prathamtamboli2309/RealEState/assets/142076673/84f609f5-c098-4ccf-b339-6ae6d5d0596c)
+![Screenshot (82)](https://github.com/Prathamtamboli2309/RealEState/assets/142076673/651b1839-cb88-491d-91f7-854dbfcb8f66)
+![Screenshot (83)](https://github.com/Prathamtamboli2309/RealEState/assets/142076673/380bf22e-327a-4e1a-98c0-5cf35a95ec9f)
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit pull requests.
